@@ -4,10 +4,12 @@
 \alias{print.Rttest}
 \title{print}
 \usage{
-\method{print}{Rttest}(x)
+\method{print}{Rttest}(x, ...)
 }
 \arguments{
 \item{x}{Object to print}
+
+\item{...}{Extra inputs}
 }
 \value{
 The data frame of the Rttest object
