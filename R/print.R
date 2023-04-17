@@ -4,7 +4,7 @@
 #'
 #' @return The data frame of the Rttest object
 #'
-#' @export
+#' @export print.Rttest
 #'
 #' @examples
 print.Rttest <- function(x) {
