@@ -15,3 +15,6 @@ The data frame of the Rttest object
 \description{
 print
 }
+\examples{
+\dontrun{print(obj)}
+}

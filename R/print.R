@@ -7,6 +7,7 @@
 #' @export print.Rttest
 #'
 #' @examples
+#' \dontrun{print(obj)}
 print.Rttest <- function(x) {
   library(kableExtra)
   knitr::kable(x[[1]], format = "markdown")
