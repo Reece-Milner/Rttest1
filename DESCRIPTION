@@ -12,5 +12,7 @@ RoxygenNote: 7.2.3
 Import: 
     stats
 Depends:
-    knitr
+    knitr,
+    ggplot2,
+    dplyr
 License: MIT + file LICENSE
